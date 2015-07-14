@@ -1,2 +1,2 @@
-# Ehcache search
-This is a quick and very dirty sample.
+# Search Workshop
+These are quick and very dirty samples.
